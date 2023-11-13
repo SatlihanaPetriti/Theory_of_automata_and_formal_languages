@@ -1,1 +1,1 @@
-# Theory_of_automata_and_formal_languages
+# Теория автоматов и формальных языков
