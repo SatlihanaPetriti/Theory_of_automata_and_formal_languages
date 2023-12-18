@@ -155,7 +155,7 @@ def choose_action(state, exploration_prob, q_table):
     else:
         return np.argmax(q_table[state, :])
 
-# Функция обучения с использованием Q-learning
+
 # Функция обучения с использованием Q-learning
 def q_learning(env):
     learning_rate = 0.1
